@@ -1,3 +1,3 @@
 # Sierpinski-triangle
 https://fumamosss.github.io/Sierpinski-triangle/
-![image]([https://imgur.com/a/wspz5V9](https://imgur.com/aQAamKN))
+![alt text]([https://imgur.com/a/wspz5V9](https://imgur.com/aQAamKN))
